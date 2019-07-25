@@ -4,9 +4,15 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Sync",
+            "label": "Send",
             "type": "npm",
             "script": "push",
+            "problemMatcher": []
+        },
+        {
+            "label": "Load",
+            "type": "npm",
+            "script": "pull",
             "problemMatcher": []
         }
     ]
