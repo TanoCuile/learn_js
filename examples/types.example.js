@@ -5,9 +5,9 @@ function valuePrint(val) {
     console.log(val);
 }
 
-const typesExampleArray = [
+const typesExampleArray = [ // Создаем массив разнотипных значений
     1,
-    "2",
+    "Строка",
     true,
     undefined,
     function() {},
@@ -18,7 +18,7 @@ const typesExampleArray = [
 for (const tempVal of typesExampleArray) {
     console.log('-------------------------------');
     console.log('VALUE:')
-    valuePrint(tempVal);
+    valuePrint(tempVal);// ВОПРОС: валыжадлыв
     console.log('TYPE:')
     typePrint(tempVal);
     console.log('-------------------------------');
