@@ -18,7 +18,7 @@ const typesExampleArray = [ // Создаем массив разнотипны�
 for (const tempVal of typesExampleArray) {
     console.log('-------------------------------');
     console.log('VALUE:')
-    valuePrint(tempVal);// ВОПРОС: валыжадлыв
+    valuePrint(tempVal);
     console.log('TYPE:')
     typePrint(tempVal);
     console.log('-------------------------------');
