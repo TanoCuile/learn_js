@@ -1,0 +1,23 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "Project for learning JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanoCuile/learn_js.git"
+  },
+  "keywords": [
+    "js",
+    "learn"
+  ],
+  "author": "strifinder@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TanoCuile/learn_js/issues"
+  },
+  "homepage": "https://github.com/TanoCuile/learn_js#readme"
+}
